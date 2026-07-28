@@ -4,16 +4,17 @@ This is the
 ## list of languages i plan to adapt:
 * C++ ✓
 * HTML+js+css ✓
-* Basic
-* Löve2D
-* Unity
-* Python + pygame
-* Processing
-* Rust
-* Scratch
-* RPG Maker
-* Java
 * Ren'py
+* GDevelop 
+* Basic
+* Scratch
+* Java
+* Löve2D
+* RPG Maker
+* Processing
+* Python + pygame
+* Unity
 * Godot
+* Rust
 
 the order in the ones that are yet to be made is randomized. This is because i am a masochist who likes pain.
