@@ -1,0 +1,85 @@
+@font-face {
+	font-family: "penisfont";
+	src: url("/font.ttf");
+}
+
+body {
+	font-family: SimSun, penisfont, "Times New Roman", serif;
+	background-color: black;
+	background-image: url("/space.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	font-size: large;
+}
+
+div {
+	background-color: lightblue;
+}
+
+sticky {
+	position: sticky;
+	top: 0;
+}
+
+/* unvisited link */
+a:link {
+	color: black;
+}
+/* visited link */
+a:visited {
+	color: black;
+}
+/* mouse over link */
+a:hover {
+	color: white;
+}
+/* selected link */
+a:active {
+	color: black;
+}
+
+/*stolen from eyeorb.net ehehehe*/
+#blomster {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	pointer-events: none;
+	width: 10%;
+}
+
+.parent {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+.image1 {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+.image2 {
+	position: absolute;
+	top: 5%;
+	left: 25%;
+	width: 50%;
+}
+
+button {
+	font-family: SimSun, penisfont, "Times New Roman", serif;
+	border-radius: 0px;
+	font-size: large;
+}
+
+.helenmsg {
+	text-align: left;
+}
+
+.cathymsg {
+	text-align: right;
+}
+
+mark {
+	background-color: white;
+	border-radius: 15px;
+}

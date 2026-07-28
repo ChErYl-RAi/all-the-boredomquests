@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BoredomQuest2D</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="A game about a girl.">
+  <meta name="keywords" content="web games, transfem">
+  <meta name="author" content="Cheryl D. Lakes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+    <body style="background-image: none;">
+    	<script src="https://cdn.jsdelivr.net/npm/howler@2.2.4/dist/howler.min.js"></script>
+    
+    	<link rel="stylesheet" href="penis.css">
+    	
+  	<!-- hi melanie i love uuuuuuu :3-->
+    	
+    	<center> <div style="width: 100%; max-width: 700px;"> 
+    		<br>
+       		<h1><b>BoredomQuest2D</b></h1>
+       		<button id="playbutt" onclick="playgame();">PLAY</button>
+            <div style="display: none;" id="gamediv">
+            <table>
+                <tr>
+                    <th width="50%"> 
+        	            <div class="parent" style="width: 100%">
+                          <img class="image1" id="bground" src="/girlsgameassets/placeholder.png" style="width: 100%"/>
+                          <img class="image2" id="girls" src="/girlsgameassets/girl0001.png"/>
+                        </div>
+                    </th>
+                    <th width="50%">
+                        <h2 id="locationtext">You're in your room.<br>It is currently 9:30.</h2>
+                        <h2>What do you do?</h2>
+                        <p><button id="butt1" onclick="button(0);">option</button></p>
+                        <p><button id="butt2" onclick="button(1);">option</button></p>
+                        <p><button id="butt3" onclick="button(2);">option</button></p>
+                        <p><button id="butt4" onclick="button(3);">option</button></p>
+                        <p><button id="butt5" onclick="button(4);">option</button></p>
+                    </th>
+                </tr>
+            </table>
+            <p id="hungriness"></p>
+            <p id="eepytime"></p>
+            <p id="flavtext"></p>
+
+            </div>
+
+            
+            <h2 style="color: lightblue;">-</h2>
+
+        </div> </center>
+        <img id="blomster" src="flower.png">
+        <script src="girlsgameassets/girlgame.js"></script>
+
+        
+    </body>
+</html>
