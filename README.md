@@ -6,9 +6,9 @@ This is the
 * HTML+js+css ✓
 * Ren'py
 * GDevelop 
-* Basic
 * Scratch
 * Java
+* Basic
 * Löve2D
 * RPG Maker
 * Processing
