@@ -17,6 +17,8 @@ This is the
 * Pico8
 * Godot
 * Rust
+* MeowLang
+* BrainFuck
 
-  https://wheeldecide.com/?c1=%2A%20Ren%27py&c2=%2A%20GDevelop%20&c3=%2A%20Scratch&c4=%2A%20Java&c5=%2A%20Basic&c6=%2A%20L%C3%B6ve2D&c7=%2A%20RPG%20Maker&c8=%2A%20Processing&c9=%2A%20Python%20%2B%20pygame&c10=%2A%20Unity&c11=%2A%20Pico8&c12=%2A%20Godot&c13=%2A%20Rust&t=Progesterone%20gramming%20languages&time=5
+  https://wheeldecide.com/index.php?c1=%2A+Ren%27py&c2=%2A+GDevelop+&c3=%2A+Scratch&c4=%2A+Java&c5=%2A+Basic&c6=%2A+L%C3%B6ve2D&c7=%2A+RPG+Maker&c8=%2A+Processing&c9=%2A+Python+%2B+pygame&c10=%2A+Pico8&c11=%2A+Godot&c12=%2A+Rust&c13=%2A+MeowLang&c14=%2A+BrainFuck&t=Progesterone+gramming+languages&time=5
 
