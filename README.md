@@ -19,6 +19,7 @@ This is the
 * Rust
 * MeowLang
 * BrainFuck
+* CherryLang
 
-  https://wheeldecide.com/index.php?c1=%2A+Ren%27py&c2=%2A+GDevelop+&c3=%2A+Scratch&c4=%2A+Java&c5=%2A+Basic&c6=%2A+L%C3%B6ve2D&c7=%2A+RPG+Maker&c8=%2A+Processing&c9=%2A+Python+%2B+pygame&c10=%2A+Pico8&c11=%2A+Godot&c12=%2A+Rust&c13=%2A+MeowLang&c14=%2A+BrainFuck&t=Progesterone+gramming+languages&time=5
+  [https://wheeldecide.com/index.php?c1=%2A+Ren%27py&c2=%2A+GDevelop+&c3=%2A+Scratch&c4=%2A+Java&c5=%2A+Basic&c6=%2A+L%C3%B6ve2D&c7=%2A+RPG+Maker&c8=%2A+Processing&c9=%2A+Python+%2B+pygame&c10=%2A+Pico8&c11=%2A+Godot&c12=%2A+Rust&c13=%2A+MeowLang&c14=%2A+BrainFuck&c15=%2A+CherryLang&t=Progesterone+gramming+languages&time=5](https://wheeldecide.com/index.php?c1=%2A+Ren%27py&c2=%2A+GDevelop+&c3=%2A+Scratch&c4=%2A+Java&c5=%2A+Basic&c6=%2A+L%C3%B6ve2D&c7=%2A+RPG+Maker&c8=%2A+Processing&c9=%2A+Python+%2B+pygame&c10=%2A+Pico8&c11=%2A+Godot&c12=%2A+Rust&c13=%2A+MeowLang&c14=%2A+BrainFuck&c15=%2A+CherryLang&t=Progesterone+gramming+languages&time=5)
 
