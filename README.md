@@ -21,6 +21,7 @@ This is the
 * BrainFuck
 * gbdk
 * CherryLang
+* Forth (for DuskOS support of course)
 * short film
 * board game
 
