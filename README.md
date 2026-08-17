@@ -20,6 +20,7 @@ This is the
 * MeowLang
 * BrainFuck
 * gbdk
+* dsgm
 * CherryLang
 * Forth (for DuskOS support of course)
 * short film
