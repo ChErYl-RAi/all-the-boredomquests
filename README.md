@@ -23,6 +23,7 @@ This is the
 * dsgm
 * CherryLang
 * Forth (for DuskOS support of course)
+* ASM
 * short film
 * board game
 
